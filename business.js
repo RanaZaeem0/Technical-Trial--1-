@@ -5,7 +5,7 @@ const FIELDS = {
     position: { label: "Position / Role", icon: "briefcase" },
     email: { label: "Email Address", type: "email", icon: "envelope" },
     telephone: {
-      label: "Phone Number",
+      label: "Phone Number (UK) ",
       type: "tel",
       pattern: "^(0|\\+?44)[17]\\d{8,9}$",
       icon: "telephone",
